@@ -1,0 +1,176 @@
+[
+  {
+    "id": 2,
+    "foodName": "Mutton Biryani",
+    "foodPrice": 250,
+    "foodImg": "https://images.unsplash.com/photo-1589302168068-964664d93dc0"
+  },
+  {
+    "id": 3,
+    "foodName": "Veg Biryani",
+    "foodPrice": 140,
+    "foodImg": "https://images.unsplash.com/photo-1596797038530-2c107229654b"
+  },
+  {
+    "id": 4,
+    "foodName": "Chicken Fried Rice",
+    "foodPrice": 160,
+    "foodImg": "https://images.unsplash.com/photo-1603133872878-684f208fb84b"
+  },
+  {
+    "id": 5,
+    "foodName": "Veg Fried Rice",
+    "foodPrice": 120,
+    "foodImg": "https://images.unsplash.com/photo-1512058564366-18510be2db19"
+  },
+  {
+    "id": 6,
+    "foodName": "Chicken Noodles",
+    "foodPrice": 150,
+    "foodImg": "https://images.unsplash.com/photo-1552611052-33e04de081de"
+  },
+  {
+    "id": 7,
+    "foodName": "Veg Noodles",
+    "foodPrice": 110,
+    "foodImg": "https://images.unsplash.com/photo-1585032226651-759b368d7246"
+  },
+  {
+    "id": 8,
+    "foodName": "Masala Dosa",
+    "foodPrice": 80,
+    "foodImg": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976"
+  },
+  {
+    "id": 9,
+    "foodName": "Idli",
+    "foodPrice": 50,
+    "foodImg": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc"
+  },
+  {
+    "id": 10,
+    "foodName": "Samosa",
+    "foodPrice": 30,
+    "foodImg": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+  },
+  {
+    "id": 11,
+    "foodName": "Pizza",
+    "foodPrice": 220,
+    "foodImg": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002"
+  },
+  {
+    "id": 12,
+    "foodName": "Pepperoni Pizza",
+    "foodPrice": 280,
+    "foodImg": "https://images.unsplash.com/photo-1628840042765-356cda07504e"
+  },
+  {
+    "id": 13,
+    "foodName": "Cheese Burger",
+    "foodPrice": 160,
+    "foodImg": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd"
+  },
+  {
+    "id": 14,
+    "foodName": "Chicken Burger",
+    "foodPrice": 180,
+    "foodImg": "https://images.unsplash.com/photo-1598182198871-d3f4ab4fd181"
+  },
+  {
+    "id": 15,
+    "foodName": "French Fries",
+    "foodPrice": 100,
+    "foodImg": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877"
+  },
+  {
+    "id": 16,
+    "foodName": "Chicken Tikka",
+    "foodPrice": 200,
+    "foodImg": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0"
+  },
+  {
+    "id": 17,
+    "foodName": "Chicken 65",
+    "foodPrice": 170,
+    "foodImg": "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7"
+  },
+  {
+    "id": 18,
+    "foodName": "Paneer Butter Masala",
+    "foodPrice": 160,
+    "foodImg": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7"
+  },
+  {
+    "id": 19,
+    "foodName": "Butter Naan",
+    "foodPrice": 50,
+    "foodImg": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+  },
+  {
+    "id": 20,
+    "foodName": "Chole Bhature",
+    "foodPrice": 130,
+    "foodImg": "https://images.unsplash.com/photo-1626132647523-66f5bf380027"
+  },
+  {
+    "id": 21,
+    "foodName": "Pav Bhaji",
+    "foodPrice": 120,
+    "foodImg": "https://images.unsplash.com/photo-1601050690597-df0568f70950"
+  },
+  {
+    "id": 22,
+    "foodName": "Pasta",
+    "foodPrice": 180,
+    "foodImg": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601"
+  },
+  {
+    "id": 23,
+    "foodName": "White Sauce Pasta",
+    "foodPrice": 200,
+    "foodImg": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a"
+  },
+  {
+    "id": 24,
+    "foodName": "Chicken Pasta",
+    "foodPrice": 220,
+    "foodImg": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9"
+  },
+  {
+    "id": 25,
+    "foodName": "Tacos",
+    "foodPrice": 150,
+    "foodImg": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b"
+  },
+  {
+    "id": 26,
+    "foodName": "Grilled Sandwich",
+    "foodPrice": 120,
+    "foodImg": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af"
+  },
+  {
+    "id": 27,
+    "foodName": "Chocolate Cake",
+    "foodPrice": 140,
+    "foodImg": "https://images.unsplash.com/photo-1578985545062-69928b1d9587"
+  },
+  {
+    "id": 28,
+    "foodName": "Cheesecake",
+    "foodPrice": 180,
+    "foodImg": "https://images.unsplash.com/photo-1565958011703-44f9829ba187"
+  },
+  {
+    "id": 29,
+    "foodName": "Ice Cream",
+    "foodPrice": 90,
+    "foodImg": "https://images.unsplash.com/photo-1563805042-7684c019e1cb"
+  },
+  {
+    "id": 30,
+    "foodName": "Fruit Salad",
+    "foodPrice": 100,
+    "foodImg": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea"
+  }
+]
